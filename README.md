@@ -55,6 +55,7 @@ The Level 2 analysis investigates the "why" behind the performance numbers.
 * **Revenue Leakage:** Identifying periods where DSRN was high but occupancy remained low, suggesting the need for dynamic pricing adjustments.
 
 ---
+<img width="833" height="546" alt="Screenshot 2026-05-15 120722" src="https://github.com/user-attachments/assets/98741097-eaf6-411e-8f3a-5fc9c2274e19" />
 
 ## Tools Used
 
